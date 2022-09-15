@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Statement: Two and Two makes four [14:25]
+=======
+sun rises in the east
+>>>>>>> 9a1d3711467f490337f6be09567f451264838ab1
